@@ -1,0 +1,22 @@
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-gmodules
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk
+-fasm-blocks
+-mmacosx-version-min=10.7
+-g
+-fvisibility=hidden
+-iquote
+-iquote
+-I/Users/hw13a116/Desktop/SwitcherMediaPool/DerivedData/SwitcherMediaPool/Build/Products/Debug/include
+-F/Users/hw13a116/Desktop/SwitcherMediaPool/DerivedData/SwitcherMediaPool/Build/Products/Debug
+x86_64-apple-darwin14.5.0
+"4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)"
+SDK_PRODUCT_BUILD_VERSION=15C43
+15C43
